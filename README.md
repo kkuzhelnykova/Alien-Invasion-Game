@@ -51,7 +51,7 @@ Both required values are displayed on screen during gameplay:
 
 ---
 
-## Additional Student Features Implemented
+## Additional Features Implemented
 
 ### **Pause Menu with Buttons**
 
