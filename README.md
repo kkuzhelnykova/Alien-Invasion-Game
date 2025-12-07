@@ -1,4 +1,4 @@
-# Alien-Invasion-Game
+# Alien Invasion Game
 
 **Author:** Karyna Kuzhelnykova
 **Course:** SFWE 101 (Alien Invasion Game Project)
