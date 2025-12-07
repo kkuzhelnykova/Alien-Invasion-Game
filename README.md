@@ -1,8 +1,4 @@
 # Alien-Invasion-Game
-Here is a clean, professional **README.md** tailored exactly for your project and assignment requirements.
-You can copy/paste this directly into a file named **README.md** and include it with your submission.
-
----
 
 **Author:** Karyna Kuzhelnykova
 **Course:** SFWE 101 (Alien Invasion Game Project)
