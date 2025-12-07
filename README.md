@@ -5,6 +5,10 @@
 **IDE:** Visual Studio Code
 **Language:** Python
 **Libraries:** Pygame
+--- 
+## DEMO
+
+https://github.com/user-attachments/assets/418807dc-8fa7-4534-ab4e-7ee026b68b70
 
 ---
 
